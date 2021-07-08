@@ -1,0 +1,17 @@
+[{
+    "username": "john",
+    "firstName": "John",
+    "lastName": "Doe",
+    "gender": "Male",
+    "profileURL": "https://cpimg.tistatic.com/06576418/b/4/Nataforce-Eye-Drops.jpg?tr=n-w410",
+    "email": "john.doe@example.com"
+},
+{
+    "username": "jane",
+    "firstName": "Jane",
+    "lastName": "Doe",
+    "gender": "Female",
+    "profileURL": "https://cpimg.tistatic.com/06576418/b/4/Nataforce-Eye-Drops.jpg?tr=n-w410",
+    "email": "jane.doe@example.com"
+}
+]

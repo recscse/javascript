@@ -1,0 +1,39 @@
+{
+  "id": 3344,
+  "uid": "691ecad4-e07b-49d8-b6d0-3971b7623e57",
+  "password": "PEsva61uVR",
+  "first_name": "Anya",
+  "last_name": "Mitchell",
+  "username": "anya.mitchell",
+  "email": "anya.mitchell@email.com",
+  "avatar": "https://robohash.org/omnisesseut.png?size=300x300&set=set1",
+  "gender": "Polygender",
+  "phone_number": "+387 1-931-224-3507 x4512",
+  "social_insurance_number": "630619344",
+  "date_of_birth": "1962-10-05",
+  "employment": {
+    "title": "Farming Supervisor",
+    "key_skill": "Leadership"
+  },
+  "address": {
+    "city": "Swaniawskiberg",
+    "street_name": "Murray Vista",
+    "street_address": "5957 Angelo Heights",
+    "zip_code": "69570",
+    "state": "Florida",
+    "country": "United States",
+    "coordinates": {
+      "lat": 38.910190643980826,
+      "lng": -78.17206457631286
+    }
+  },
+  "credit_card": {
+    "cc_number": "5195-8634-1299-5727"
+  },
+  "subscription": {
+    "plan": "Student",
+    "status": "Idle",
+    "payment_method": "Alipay",
+    "term": "Monthly"
+  }
+}
