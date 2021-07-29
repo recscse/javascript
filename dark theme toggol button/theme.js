@@ -11,6 +11,6 @@ function swapTheme() {
         btn_Theme.className = "button_night";
     }
     else {
-        btn_theme.className="button_day";
+        btn_Theme.className="button_day";
     }
 }
